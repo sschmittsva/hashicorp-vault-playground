@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.5.0](https://github.com/sschmittsva/hashicorp-vault-playground/compare/v1.4.0...v1.5.0) (2023-11-16)
+
+
+### Features
+
+* **db:** add dynamic db credential mysql lab ([#18](https://github.com/sschmittsva/hashicorp-vault-playground/issues/18)) ([38e4ef5](https://github.com/sschmittsva/hashicorp-vault-playground/commit/38e4ef58d6cefc2d9929b36cb60341904c90835a))
+* **sealing:** add seal lab ([5aef0b5](https://github.com/sschmittsva/hashicorp-vault-playground/commit/5aef0b5967a06cf7a3303e81a571562437b11619))
+
+
+### Bug Fixes
+
+* **envrc:** use full path to vault's ca ([#16](https://github.com/sschmittsva/hashicorp-vault-playground/issues/16)) ([f2c7419](https://github.com/sschmittsva/hashicorp-vault-playground/commit/f2c74193bdce20548fc2194b558878bf77225027))
+
 ## [1.6.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/compare/v1.5.0...v1.6.0) (2023-11-10)
 
 
